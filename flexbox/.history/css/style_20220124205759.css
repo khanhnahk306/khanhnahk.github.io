@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    margin: auto;
+    width: 1000px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.contianer .box{
+    width: 300px;
+    width: calc(100% - 30px)/3;
+    object-fit: cover;
+}

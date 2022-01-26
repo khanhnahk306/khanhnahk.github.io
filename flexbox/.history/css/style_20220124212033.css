@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    margin: auto;
+    max-width: 996px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.box{
+    margin: 16px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
