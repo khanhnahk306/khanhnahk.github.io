@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: aqua;
+}
+.container{
+    ma
+.form{
+    height: 300px;
+    max-width: 500px;
+    background-color: whitesmoke;
+}

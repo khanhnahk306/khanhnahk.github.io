@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: aqua;
+}
+.nav {
+    display: flex;
+    list-style-type: none;
+    text-decoration: none;
+}
+.nav li{
+    padding: 20px;
+}
+.sub-menu{
+    display: none;
+}.nav li:hover .sub-menu{
+    dis
+}

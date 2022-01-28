@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: aqua;
+}
+.container{
+    justify-content: center;
+}
+.form{
+    height: 300px;
+    max-width: 500px;
+    background-color: whitesmoke;
+}

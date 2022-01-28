@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: aqua;
+}
+.container{
+    max-width: 500px;
+    margin: auto;
+    padding:}
+.form{
+    height: 300px;
+    max-width: 500px;
+    background-color: whitesmoke;
+}

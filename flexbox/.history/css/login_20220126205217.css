@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: aqua;
+}
+.form{
+    height: 300px;
+    max-width: 500px;
+    background-color: whitesmoke;
+    
+}

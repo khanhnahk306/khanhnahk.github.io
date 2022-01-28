@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: aqua;
+}
+.container{
+    max-width: 500px;
+    margin: auto;
+    display: flex;
+}
+.form{
+    height: 300px;
+    max-width: 500px;
+    background-color: whitesmoke;
+    align-items: center;
+}
