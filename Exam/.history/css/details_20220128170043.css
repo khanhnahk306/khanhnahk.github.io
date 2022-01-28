@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    margin: auto;
+    max-width: 997px;
+    display: flex;
+    flex-wrap: wrap;
+}

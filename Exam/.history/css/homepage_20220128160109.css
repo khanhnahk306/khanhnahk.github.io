@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.container{
+    width: 1200px;
+}
+.picture{
+    width: 300px;
+}
+.box{
+    margin: 15px;
+    background-color: whitesmoke;
+    border-radius: 2%;
+    box-shadow: 0 2px 3px 1px rgb(0 0 0 / 15%);
+}
+.description{
+    max-width: 280px;
+    margin-left: 10px;
+    margin-right: 10px;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    display: -webkit-box;
+}

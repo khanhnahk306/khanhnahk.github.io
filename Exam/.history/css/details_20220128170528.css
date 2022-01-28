@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+}
+
+.container{
+    margin: auto;
+    max-width: 997px;
+}
+.target{
+    font-weight: bolder;
+}

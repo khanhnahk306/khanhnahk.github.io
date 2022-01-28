@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+h1{
+    text-align: center;
+}
+h2{
+    margin-left: 10px;
+}
+.container{
+    margin: auto;
+    max-width: 997px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.picture{
+    width: 300px;
+    border-radius: 2% 2% 0 0 ;
+}
+.box{
+    margin: 15px;
+    background-color: whitesmoke;
+    border-radius: 2%;
+    box-shadow: 0 2px 3px 1px rgb(0 0 0 / 15%);
+}
+.description{
+    max-width: 280px;
+    margin-left: 10px;
+    margin-right: 10px;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    display: -webkit-box;
+    line-height: 1.5;
+}
+.box:hover{
+    transform: scale(1.5);
+    backdrop-filter: body();
+}
