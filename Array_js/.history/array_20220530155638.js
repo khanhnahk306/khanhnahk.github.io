@@ -1,0 +1,3 @@
+function checkElnt(params) {
+    
+}
