@@ -1,0 +1,3 @@
+function sortFromMinToMaxme(arr) {
+    fo
+}

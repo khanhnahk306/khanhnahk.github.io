@@ -1,0 +1,3 @@
+function sortByCount(params) {
+    name
+}
