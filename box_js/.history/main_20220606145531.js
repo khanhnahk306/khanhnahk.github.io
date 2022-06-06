@@ -1,0 +1,24 @@
+let colors = ["#3498db", "#9b59b6", "#e74c3c", "#2c3e50", "#d35400"];
+
+const boxElement = document.querySelector(".box");
+
+for (let i = 0; i < colors.length; i++) {
+  let box = document.createElement("div");
+  box.classList.add("box");
+
+  box.style.backgroundColor = colors[i];
+
+  document.body.appendChild(box);
+}
+document.addEventListener("click", function (event) {
+    const boxElement = document.querySelector(".box");
+
+  let box = document.createElement("div");
+  box.classList.add("box");
+
+  console.log(event);
+  box.style.left = `${event.offsetX -50}px`;
+  box.style.top = `${event.offsetY -50}px`;
+
+  document.body.appendChild(box);
+});
