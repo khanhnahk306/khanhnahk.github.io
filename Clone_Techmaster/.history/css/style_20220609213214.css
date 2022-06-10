@@ -1,0 +1,25 @@
+html, body {
+    width: auto !important;
+    overflow-x: hidden !important;
+}
+
+@media (max-width: 576px){
+    .navbar-toggler{
+        float: right;
+    }
+    .navbar{
+        background-color: wheat;
+    }
+}
+@media (max-width: 768px){ 
+    .navbar-toggler{
+        float: right;
+    }
+}
+
+.box{
+    margin: 15px;
+    background-color: whitesmoke;
+    border-radius: 2%;
+    box-shadow: 0 2px 3px 1px rgb(0 0 0 / 15%);
+}

@@ -1,0 +1,27 @@
+html, body {
+    width: auto !important;
+    overflow-x: hidden !important;
+}
+
+@media (max-width: 576px){
+    .navbar-toggler{
+        float: right;
+    }
+    .navbar{
+        background-color: wheat;
+    }
+}
+@media (max-width: 768px){ 
+    .navbar-toggler{
+        float: right;
+    }
+}
+
+*{
+    box-sizing: border-box;
+}
+.container{
+    margin: auto;
+    max-width: 991px;
+    line-height: 1.5;
+}
