@@ -1,0 +1,15 @@
+E:\dotnetProject\WpfApp1\Chat_Server\bin\Debug\net6.0\Chat_Server.exe
+E:\dotnetProject\WpfApp1\Chat_Server\bin\Debug\net6.0\Chat_Server.deps.json
+E:\dotnetProject\WpfApp1\Chat_Server\bin\Debug\net6.0\Chat_Server.runtimeconfig.json
+E:\dotnetProject\WpfApp1\Chat_Server\bin\Debug\net6.0\Chat_Server.dll
+E:\dotnetProject\WpfApp1\Chat_Server\bin\Debug\net6.0\Chat_Server.pdb
+E:\dotnetProject\WpfApp1\Chat_Server\obj\Debug\net6.0\Chat_Server.csproj.AssemblyReference.cache
+E:\dotnetProject\WpfApp1\Chat_Server\obj\Debug\net6.0\Chat_Server.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnetProject\WpfApp1\Chat_Server\obj\Debug\net6.0\Chat_Server.AssemblyInfoInputs.cache
+E:\dotnetProject\WpfApp1\Chat_Server\obj\Debug\net6.0\Chat_Server.AssemblyInfo.cs
+E:\dotnetProject\WpfApp1\Chat_Server\obj\Debug\net6.0\Chat_Server.csproj.CoreCompileInputs.cache
+E:\dotnetProject\WpfApp1\Chat_Server\obj\Debug\net6.0\Chat_Server.dll
+E:\dotnetProject\WpfApp1\Chat_Server\obj\Debug\net6.0\refint\Chat_Server.dll
+E:\dotnetProject\WpfApp1\Chat_Server\obj\Debug\net6.0\Chat_Server.pdb
+E:\dotnetProject\WpfApp1\Chat_Server\obj\Debug\net6.0\Chat_Server.genruntimeconfig.cache
+E:\dotnetProject\WpfApp1\Chat_Server\obj\Debug\net6.0\ref\Chat_Server.dll
