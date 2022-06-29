@@ -67,7 +67,8 @@ namespace Chat_Client.Net
             var messagePacket = new PacketBuilder();
             messagePacket.WriteOpcode(5);
             messagePacket.WriteMessage(message);
-            _client.Client.Send(messagePacket.GetPacketBytes());   
+            _client.Client.Send(messagePacket.GetPacketBytes());
+           
         }
     }
 }

@@ -19,10 +19,9 @@
         </Grid.ColumnDefinitions>
 
         <DockPanel>
-            <Label Content="Address" DockPanel.Dock="Top" Height="30" Margin="10 10 10 0"></Label>
+            <Label Content="Name" DockPanel.Dock="Top" Height="30" Margin="10 10 10 0"></Label>
             <TextBox Text="{Binding Username, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Top" Height="30" Margin="10 0 10 10"></TextBox>
             <Button Content="Connect" Command="{Binding ConnectToServerCommand}" DockPanel.Dock="Top" Height="30" Margin="10 10 10 10"></Button>
-            <Button Content="Start Logging" DockPanel.Dock="Top" Click="Click_Start_Logging" Height="30" Margin="10 10 10 10"></Button>
             <ListView ItemsSource="{Binding Users}" Margin="10 0 10 2">
                 <ListView.ItemTemplate>
                     <DataTemplate>

@@ -21,27 +21,14 @@ namespace WpfApp1
         {
             InitializeComponent();
         }
-        public void Log(string text)
-        {
-            string path = AppDomain.CurrentDomain.BaseDirectory + "LogFile.txt";
-            if (System.IO.File.Exists(path))
-            {
-                System.IO.File.AppendAllText(path, " " + DateTime.Now.ToString() + " "+ text +  Environment.NewLine);
-            }
-            else { }
-        }
-
         private void tb_displayFriendBox_TextChanged(object sender, TextChangedEventArgs e)
-        {
-             
+        {           
         }
         private void Button_Click(object sender, RoutedEventArgs e)
         {
         }
         private void Click_Start_Logging(object sender, RoutedEventArgs e)
         {
-            Log("start");
-   
         }
     }
 }

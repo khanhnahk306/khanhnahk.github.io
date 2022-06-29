@@ -19,10 +19,12 @@ namespace Chat_Server
         {
             ClientSocket = client;
             UID = Guid.NewGuid();
-            _packetReader = new PacketReader(ClientSocket.GetStream());
+            _packetReader = new(ClientSocket.GetStream());
             var opcode = _packetReader.ReadByte();
             Username = _packetReader.ReadMessage();
             Console.WriteLine($"{DateTime.Now} Username: {Username} has connected");
+            string path = AppDomain.CurrentDomain.BaseDirectory + "LogFile.txt";
+            File.AppendAllText(path, $"{DateTime.Now} {Username}: Connected" + Environment.NewLine);
 
             Task.Run(() => Process());
         }
@@ -49,6 +51,8 @@ namespace Chat_Server
                 catch (Exception)
                 {
                     Console.WriteLine($"{UID.ToString()}: Disconnected");
+                    string path = AppDomain.CurrentDomain.BaseDirectory + "LogFile.txt";
+                    File.AppendAllText(path, DateTime.Now.ToString() + " " + $"{Username}: " + " Disconnected " + Environment.NewLine);
                     Program.BroadcastDisconnect(UID.ToString());
                     ClientSocket.Close();
                     break;

@@ -29,3 +29,61 @@
 28/06/2022 5:23:27 CH nguyen:  alo alo
 28/06/2022 5:23:35 CH bao:  ok chua
 28/06/2022 5:23:40 CH van:  hello
+28/06/2022 5:28:35 CH nguyen van bao khanh:  alo alo
+28/06/2022 5:28:43 CH nguyen van bao khanh:  test logging
+29/06/2022 8:09:01 SA Username: abc has connected
+29/06/2022 8:09:04 SA abc:  hello
+29/06/2022 8:09:05 SA abc:  hello
+29/06/2022 8:09:05 SA abc:  hello
+29/06/2022 8:09:05 SA abc:  hello
+29/06/2022 8:09:05 SA abc:  hello
+29/06/2022 8:09:05 SA abc:  hello
+29/06/2022 8:09:06 SA abc:  hello
+29/06/2022 8:11:13 SA bao has connected
+29/06/2022 8:11:17 SA bao:  aloalo
+29/06/2022 8:11:27 SA bao:  Disconnected 
+29/06/2022 8:11:42 SA khanh has connected
+29/06/2022 8:11:47 SA van has connected
+29/06/2022 8:11:52 SA khanh:  hello
+29/06/2022 8:11:54 SA van:  hi
+29/06/2022 8:11:56 SA van:  Disconnected 
+29/06/2022 8:11:57 SA khanh:  Disconnected 
+29/06/2022 9:04:18 SA khanh has connected
+29/06/2022 9:04:21 SA khanh:  alo alo
+29/06/2022 9:04:26 SA boa has connected
+29/06/2022 9:04:30 SA boa:  hihih
+29/06/2022 9:04:31 SA boa:  hihih
+29/06/2022 9:04:32 SA khanh:  alo alo
+29/06/2022 9:04:32 SA khanh:  alo alo
+29/06/2022 9:04:33 SA khanh:  alo alo
+29/06/2022 9:05:01 SA boa:  Disconnected 
+29/06/2022 9:05:02 SA khanh:  Disconnected 
+29/06/2022 9:06:34 SA bao: Connected
+29/06/2022 9:06:38 SA khanh: Connected
+29/06/2022 9:06:40 SA van: Connected
+29/06/2022 9:06:47 SA van:  alo
+29/06/2022 9:06:51 SA khanh:  hi
+29/06/2022 9:06:57 SA bao:  hihi
+29/06/2022 9:06:58 SA bao:  hihi
+29/06/2022 9:06:58 SA bao:  hihi
+29/06/2022 9:06:58 SA bao:  hihi
+29/06/2022 9:06:59 SA khanh:  hi
+29/06/2022 9:06:59 SA khanh:  hi
+29/06/2022 9:06:59 SA khanh:  hi
+29/06/2022 9:07:01 SA van:  alo
+29/06/2022 9:07:01 SA van:  alo
+29/06/2022 9:07:02 SA van:  alo
+29/06/2022 9:07:02 SA van:  alo
+29/06/2022 9:07:05 SA van:  Disconnected 
+29/06/2022 9:07:06 SA bao:  Disconnected 
+29/06/2022 9:07:06 SA khanh:  Disconnected 
+29/06/2022 10:39:42 SA khanh: Connected
+29/06/2022 10:39:44 SA khanh:  Disconnected 
+29/06/2022 2:12:26 CH aaa: Connected
+29/06/2022 2:12:29 CH aaa:  aaaaa
+29/06/2022 2:12:32 CH aaa:  Disconnected 
+29/06/2022 2:28:27 CH khanh: Connected
+29/06/2022 2:28:31 CH khanh:  hello
+29/06/2022 2:28:44 CH khanh:  hello
+29/06/2022 2:28:49 CH khanh:  alo alo
+29/06/2022 2:28:52 CH khanh:  Disconnected 
